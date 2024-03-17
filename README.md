@@ -1,2 +1,4 @@
 # ConnecFriend-Using-HTML-CSS-JS
-<a href="https://scintillating-mandazi-6584ab.netlify.app/">Click Here to Access</a>
+<h1>Home Page</h1>
+<h1>Reusable HTML Components – Navbar and Main Component</h1>
+<a href="">Click Here to Access</a>
